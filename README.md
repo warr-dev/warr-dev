@@ -7,6 +7,8 @@
 </p>
 
 ---
+![Metrics](/github-metrics.svg)
+__
 
 ### 👨‍💻 About Me
 
