@@ -104,7 +104,7 @@ __
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://warrdev.tech" target="blank"><img align="center" src="https://warrdev.tech/favicon.ico" alt="website" height="30" width="30" /></a>
+<a href="https://warrdev.tech" target="blank"><img align="center" src="https://warrdev.tech/favicon.svg" alt="website" height="30" width="30" /></a>
 <a href="mailto:warrdev08@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
 <a href="https://github.com/warr-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
 </p>
