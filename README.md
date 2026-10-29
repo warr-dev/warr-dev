@@ -92,7 +92,7 @@ A project focused on self-service printing and local-server infrastructure, with
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/warrdev/)
-- 🌍 [Portfolio](https://warrdev.tech/)
+- 🌍 [Portfolio](https://warrdev.site/)
 - 💻 [GitHub](https://github.com/warr-dev)
 - 📧 [Email](mailto:warrdev08@gmail.com)
 
