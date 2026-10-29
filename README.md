@@ -33,28 +33,6 @@ A project focused on self-service printing and local-server infrastructure, with
 
 **Focus:** Linux, hardware integration, web applications, networking, and device management.
 
-### ☸️ Kubernetes Infrastructure Lab
-
-A hands-on infrastructure project using Terraform and Ansible to provision and configure a Kubernetes cluster on Google Cloud.
-
-**Focus:** Infrastructure as Code, Linux, Kubernetes, networking, cluster provisioning, and deployment troubleshooting.
-
-### 🪙 Printer Vendo — Coin Acceptor Integration
-
-A hardware-integration project exploring the connection between coin-operated payment devices and a self-service printing application.
-
-**Focus:** Python, device communication, payment workflows, and software-to-hardware integration.
-
-[View repository →](https://github.com/warr-dev/printervendo-coinslot)
-
-### 📱 RemoteCU — Configurable Android Remote
-
-An Android application project for creating and managing customizable remote-control layouts.
-
-**Focus:** Java, Android development, dynamic interfaces, and persistent remote configurations.
-
-[View repository →](https://github.com/warr-dev/RemoteCu)
-
 ---
 
 ## 🧰 Technology Stack
