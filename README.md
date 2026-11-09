@@ -1,11 +1,11 @@
 
 # Hi, I'm Warren Dalawampu 👋
 
-### Backend & Infrastructure Engineer | DevOps | Platform Engineering
+### Software Engineer | DevOps & Infrastructure | Backend Systems
 
 [![GitHub](https://img.shields.io/badge/GitHub-warr--dev-181717?style=flat-square&logo=github)](https://github.com/warr-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/warrdev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B83?style=flat-square&logo=googlechrome&logoColor=white)](https://warrdev.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B83?style=flat-square&logo=googlechrome&logoColor=white)](https://warrdev.site/)
 
 **[🚀 Projects](#-featured-projects) · [🧰 Tech Stack](#-technology-stack) · [💼 Experience](#-engineering-experience) · [📈 GitHub Stats](#-github-activity) · [🌐 Contact](#-connect-with-me)**
 
@@ -81,14 +81,6 @@ A project focused on self-service printing and local-server infrastructure, with
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warr-dev&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warr-dev&layout=compact&hide_border=true&theme=transparent)
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/warrdev/)
@@ -97,5 +89,3 @@ A project focused on self-service printing and local-server infrastructure, with
 - 📧 [Email](mailto:warrdev08@gmail.com)
 
 ---
-
-*Building reliable systems, automating infrastructure, and connecting software to the real world.*
