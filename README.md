@@ -1,37 +1,33 @@
 
 # Hi, I'm Warren Dalawampu 👋
 
-### Software Engineer | DevOps & Infrastructure | Backend Systems
+## Software Engineer | DevOps & Infrastructure | Backend Systems
+
+### Building, deploying, and operating software systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-warr--dev-181717?style=flat-square&logo=github)](https://github.com/warr-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/warrdev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B83?style=flat-square&logo=googlechrome&logoColor=white)](https://warrdev.site/)
 
-**[🚀 Projects](#-featured-projects) · [🧰 Tech Stack](#-technology-stack) · [💼 Experience](#-engineering-experience) · [📈 GitHub Stats](#-github-activity) · [🌐 Contact](#-connect-with-me)**
+I work across backend engineering, infrastructure operations, automation, and systems integration. My experience includes developing APIs and microservices, managing Linux environments, containerizing applications, automating deployments, and integrating software with hardware systems.
+
+## Engineering Focus
+
+- **DevOps & Infrastructure**: Linux, Docker, Kubernetes, Terraform, Ansible, CI/CD
+- **Backend Engineering**: PHP, Laravel, Node.js, REST APIs, Microservices
+- **Cloud & Networking**: GCP, Virtual Machines, DNS, Cloudflare, WireGuard
+- **Systems Integration**: C++, WebSockets, Serial Communication, ESP32, Raspberry Pi
+- **Databases & Messaging**: MySQL, MongoDB, Redis, RabbitMQ
 
 ---
 
-I build backend systems, automate infrastructure, and integrate software with real-world hardware.
+## Featured Projects
 
-My experience spans application development, Linux systems, containerized environments, CI/CD, payment integrations, and hardware-connected platforms. I enjoy working across the stack—from application architecture and APIs to deployment, networking, and troubleshooting.
+### Kiosko — Local-First Self-Service Platform
 
-- 🔭 **Currently focused on:** Infrastructure automation, cloud-native technologies, and platform engineering
-- 🛠️ **Backend:** PHP, Laravel, Node.js, REST APIs, microservices
-- ☁️ **Infrastructure:** Linux, Docker, Kubernetes, Terraform, Ansible
-- ⚙️ **Automation:** GitHub Actions, GitLab CI/CD, Bash, Python
-- 📊 **Data & Messaging:** MySQL, MongoDB, Redis, RabbitMQ
-- 🔌 **Systems Integration:** C++, hardware drivers, WebSockets, IoT, payment gateways
-- 🤝 **Engineering:** System design, troubleshooting, testing, documentation, and mentoring
+A modular self-service platform designed to operate locally, support offline transactions, integrate with physical devices, and enable optional centralized fleet management.
 
----
-
-## 🚀 Featured Projects
-
-### 🖨️ Kiosko — Local-First Self-Service Platform
-
-A project focused on self-service printing and local-server infrastructure, with an emphasis on offline-first operation, peripheral integration, and remote device management.
-
-**Focus:** Linux, hardware integration, web applications, networking, and device management.
+**Focus:** Offline first, Linux, hardware integration, web applications, networking, and fleet management.
 
 ---
 
