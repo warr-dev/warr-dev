@@ -32,7 +32,7 @@ A modular self-service platform designed around local-first operation, enabling 
 - **Cloud Fleet Management:** Centralized monitoring, analytics, reporting, and authorized remote diagnostics across multi-terminal deployments with owner-controlled access.
 - **Focus:** Local-First / Offline-First / Cloud-Managed · Raspberry Pi / Linux / AMD x86 · IoT & Edge Computing
 
-### 🔄 PalitBaryo — Barter & Trade Marketplace
+### 🔄 PalitTayo — Barter & Trade Marketplace
 
 A community-driven, cashless barter auction and trading platform enabling direct item-for-item swaps and multi-item trade negotiations without currency barriers.
 
@@ -52,7 +52,7 @@ A digital waste exchange and reverse-logistics marketplace turning recyclable wa
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 ### Languages
 
