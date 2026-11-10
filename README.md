@@ -23,11 +23,32 @@ I work across backend engineering, infrastructure operations, automation, and sy
 
 ## Featured Projects
 
-### Kiosko — Local-First Self-Service Platform
+### 🖨️ Kiosko — Local-First Self-Service Platform
 
-A modular self-service platform designed to operate locally, support offline transactions, integrate with physical devices, and enable optional centralized fleet management.
+A modular self-service platform designed around local-first operation, enabling dedicated devices to provide services independently of internet connectivity, with optional cloud connectivity for centralized management.
 
-**Focus:** Offline first, Linux, hardware integration, web applications, networking, and fleet management.
+- **Local-First & Offline Architecture:** Hosts web applications and services directly on edge devices (Raspberry Pi / AMD x86 Linux), keeping essential self-service functionality available without internet connectivity.
+- **Hardware & Payment Integration:** Interfaces with serial-connected peripherals, payment hardware (coin and bill acceptors), and document storage (USB and client-device uploads).
+- **Cloud Fleet Management:** Centralized monitoring, analytics, reporting, and authorized remote diagnostics across multi-terminal deployments with owner-controlled access.
+- **Focus:** Local-First / Offline-First / Cloud-Managed · Raspberry Pi / Linux / AMD x86 · IoT & Edge Computing
+
+### 🔄 PalitBaryo — Barter & Trade Marketplace
+
+A community-driven, cashless barter auction and trading platform enabling direct item-for-item swaps and multi-item trade negotiations without currency barriers.
+
+- **Vault & Direct Swaps:** Users catalog physical goods in a private Vault to propose 1-to-1 trades or multi-item bundles with optional cash sweeteners.
+- **Atomic Trade Negotiation Engine:** Real-time offer counter-proposals with atomic concurrency locks and state machines to prevent duplicate trade commitments.
+- **Community Resource Circulation:** Empowers neighborhood-level circular commerce, reducing consumer waste and fostering collaborative trading.
+- **Focus:** Laravel 12 · React 19 · Inertia.js v2 · PostgreSQL · Tailwind CSS · State Machine Architecture
+
+### ♻️ Trash2Cash — Recycling & Digital Waste Marketplace
+
+A digital waste exchange and reverse-logistics marketplace turning recyclable waste into instant digital wallet payouts for households and businesses.
+
+- **On-Demand Eco-Rider Dispatching:** Connects households and enterprises with certified scrap collectors (eco-riders) and verified local junk shops.
+- **Instant Digital Payouts:** Automated weight-based valuation with instant cashless disbursements via GCash and Maya.
+- **Environmental Impact Analytics:** Tracks diverted landfill tonnage, community recycling metrics, and real-time scrap market pricing.
+- **Focus:** Laravel 12 · React 18 · Inertia.js · Tailwind CSS · Docker · Payment Gateway Integration
 
 ---
 
